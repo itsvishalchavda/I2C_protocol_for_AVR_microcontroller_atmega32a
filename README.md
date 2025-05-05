@@ -1,7 +1,7 @@
 # I2C_protocol_for_AVR_microcontroller_atmega32a
 
 This project demonstrate use and implementation of I2C protocol for Atmega32A microcontroller.
-Not all are code of mine.
+Not all are code of mine, I make changes as requirement of mine.
 to compile this project, you may need Atmel studio 7.0 or above.
 
 ## Disclaimer
